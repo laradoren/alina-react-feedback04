@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alina-react-feedback04/static/css/main.10b4290a.css",
+    "main.js": "/alina-react-feedback04/static/js/main.d0d585e4.js",
+    "index.html": "/alina-react-feedback04/index.html",
+    "main.10b4290a.css.map": "/alina-react-feedback04/static/css/main.10b4290a.css.map",
+    "main.d0d585e4.js.map": "/alina-react-feedback04/static/js/main.d0d585e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b4290a.css",
+    "static/js/main.d0d585e4.js"
+  ]
+}
